@@ -6,3 +6,4 @@ Mod by main branch
 Mod in main branch to test git merge two branches
 Mod in cdt branch
 Mod in main branch to test git merge by Dev5
+git ignore
